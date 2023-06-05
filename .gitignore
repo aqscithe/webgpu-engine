@@ -1,0 +1,15 @@
+renderer/pkg/
+renderer/pkg/*
+renderer/*.html
+renderer/target/
+renderer/target/*
+
+Cargo.lock
+
+.vscode
+
+.env
+*.env
+.env.*
+
+*.log
